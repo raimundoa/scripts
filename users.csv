@@ -1,0 +1,2 @@
+firstname,lastname,username,password,ou,group
+Anderson,Nascimento,anderson.nascimento,xpto,"OU=ou_do_AD,DC=domain,DC=local",Grupo
